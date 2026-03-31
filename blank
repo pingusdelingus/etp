@@ -1,0 +1,1 @@
+E5108: Error executing lua: /Users/esteballs/.config/nvim/lua/config/autocompile.lua:405: attempt to index field 'fin' (a nil value) stack traceback:  /Users/esteballs/.config/nvim/lua/config/autocompile.lua:405: in function </Users/esteballs/.config/nvim/lua/config/autocompile.lua:379> 
